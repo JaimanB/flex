@@ -4,6 +4,11 @@
 }
 
 .avatar.distorted{
-    width: 400px;
-    height: 200px;
+    height: 400px;
+    width: 200px;
+}
+
+.distorted{
+    height: 400px;
+    opacity: 0.5;
 }
